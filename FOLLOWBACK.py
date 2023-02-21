@@ -58,9 +58,8 @@ def process_files():
 root = Tk()
 root.title("Followback")
 root.geometry("635x300")
-root.resizable(False, False)
 root.config(bg="#5851DB")
-root.iconbitmap("change.ico")
+
 
 # Create listboxes to display contents of files
 listbox1 = Listbox(root, width=40)
