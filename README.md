@@ -6,7 +6,7 @@ Python GUI to see who follows you back on instagram
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tkinter
 
 ```bash
-pip install tkinter
+pip install tk
 ```
 Then install bs4 using
 
@@ -27,7 +27,7 @@ _Within a few minutes you should receive an email containing your information_ (
 - Execute FOLLOWBACK.py with
 
 ```bash
-python FOLLOWBACK.py
+sudo python3 FOLLOWBACK.py
 ```
 
 - Import **_following.html_** and **_followers_1.html_** in the respective box using drag and drop or by pressing the buttons below
