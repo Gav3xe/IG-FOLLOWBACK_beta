@@ -3,6 +3,12 @@ Python GUI to see who follows you back on instagram
 
 ## Installation
 
+Clone this repository using
+
+```bash
+git clone https://github.com/Gav3xe/IG-FOLLOWBACK_beta1
+```
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tkinter
 
 ```bash
