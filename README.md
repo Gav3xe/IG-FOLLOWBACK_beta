@@ -23,7 +23,7 @@ pip install bs4
 ## Usage
 - Go to the [Download your information page](https://www.instagram.com/download/request/), insert your email and click "Next"
 
-![Download_your_information](https://raw.githubusercontent.com/Gav3xe/IG-FOLLOWBACK/eb402baba738b4ab2f5def4e6d6bfa836fbaa62c/imgs/Download_your_information.png)   
+![Download_your_information](https://github.com/Gav3xe/IG-FOLLOWBACK_beta1/blob/imgs/Download_your_information.png?raw=true)   
 _Within a few minutes you should receive an email containing your information_ (**_The link will only work for 4 days after submission_**)
 
 - Unzip the _.zip_ file
