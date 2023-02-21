@@ -1,5 +1,5 @@
 # IG-FOLLOWBACK
-Python GUI to see who follows you back on instagram
+Python GUI to see who doesn't follows you back on instagram
 
 ## Installation
 
