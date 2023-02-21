@@ -61,21 +61,18 @@ root.geometry("635x300")
 root.config(bg="#5851DB")
 
 
-# Create listboxes to display contents of files
 listbox1 = Listbox(root, width=40)
 listbox1.grid(row=0, column=0, padx=10, pady=10)
 
 listbox2 = Listbox(root, width=40)
 listbox2.grid(row=0, column=2, padx=10, pady=10)
 
-# Create buttons for selecting files
 button1 = Button(root, text="Select following.html", command=open_file1)
 button1.grid(row=1, column=0, padx=10, pady=10)
 
 button2 = Button(root, text="Select followers.html", command=open_file2)
 button2.grid(row=1, column=2, padx=10, pady=10)
 
-# Create button to process files
 process_button = Button(root, text="FOLLOWBACK", command=process_files)
 process_button.grid(row=2, column=1, padx=10, pady=10)
 
